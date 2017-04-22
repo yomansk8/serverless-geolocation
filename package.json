@@ -1,0 +1,26 @@
+{
+  "name": "serverless-geolocation",
+  "version": "1.0.0",
+  "description": "A set of functions to store and geolocate user coordinates",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yomansk8/serverless-geolocation.git"
+  },
+  "author": "Yohann Craumacher <https://github/com/yomansk8>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yomansk8/serverless-geolocation/issues"
+  },
+  "homepage": "https://github.com/yomansk8/serverless-geolocation#readme",
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "babel-preset-latest": "^6.24.1",
+    "serverless-babel-plugin": "^0.2.0"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.45.0",
+    "babel-runtime": "^6.23.0",
+    "uuid": "^3.0.1"
+  }
+}
